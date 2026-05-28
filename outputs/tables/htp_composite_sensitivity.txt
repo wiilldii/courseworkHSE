@@ -1,0 +1,9 @@
+HTP composite sensitivity — provenance
+======================================
+Optional scalar composite = weighted mean of available normalized component
+values (national norm = 1.0). Three weight schemes test ranking stability:
+  equal               : every component weighted equally
+  hq_weighted         : hq_corporate_innovation construct weighted 2x
+  production_weighted : industrial_production construct weighted 2x
+ranking_stable_across_schemes = True means the same region leads under all three
+schemes. The composite is a SUMMARY of the profile, not the headline result.

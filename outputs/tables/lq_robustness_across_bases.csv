@@ -1,0 +1,15 @@
+﻿region,region_label,industry_code_2d,industry_en,lq_employment,lq_establishments,lq_value_added,rank_employment,rank_establishments,rank_value_added,all_above_1,all_below_1,classification_stable
+osaka_kansai,Osaka/Kansai Metropolitan Area,25,General-Purpose Machinery,1.4586760801996193,1.2977593073511033,1.5462886618739378,1.0,2.0,1.0,True,False,True
+osaka_kansai,Osaka/Kansai Metropolitan Area,16,Chemicals & Adv. Materials,1.2596656109415556,1.3962652322095361,0.9022134531867863,2.0,1.0,5.0,False,False,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,26,Production Machinery & Robotics,1.2077437073810908,1.0436352085455851,1.2846116387163984,3.0,4.0,2.0,True,False,True
+osaka_kansai,Osaka/Kansai Metropolitan Area,29,Electrical Machinery,1.187786348424425,1.1167869753093576,0.9603391124062841,4.0,3.0,4.0,False,False,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,27,Business Machinery & Medical Devices,1.0588297995650469,0.9533404486992895,1.2010924015849314,5.0,5.0,3.0,False,False,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,30,ICT Equipment,0.789381479831848,0.6279429488707953,0.8978854037620866,6.0,7.0,6.0,False,True,True
+osaka_kansai,Osaka/Kansai Metropolitan Area,28,Electronic Parts & Circuits,0.5086820925496677,0.6468876220784773,0.445473463153572,7.0,6.0,7.0,False,True,True
+tokyo_ma,Tokyo Metropolitan Area,30,ICT Equipment,1.6966334270406496,1.8233971007423442,2.1314846153804887,1.0,1.0,1.0,True,False,True
+tokyo_ma,Tokyo Metropolitan Area,16,Chemicals & Adv. Materials,1.3685524366539163,1.2773959053051418,1.2662553491715993,2.0,3.0,3.0,True,False,True
+tokyo_ma,Tokyo Metropolitan Area,27,Business Machinery & Medical Devices,1.359139967435012,1.814765563165697,1.6895115440461435,3.0,2.0,2.0,True,False,True
+tokyo_ma,Tokyo Metropolitan Area,25,General-Purpose Machinery,0.9740300394939443,1.0490107923637888,0.8445036660018425,4.0,6.0,4.0,False,False,False
+tokyo_ma,Tokyo Metropolitan Area,29,Electrical Machinery,0.9323558331772807,1.1974284375753792,0.7199438554403563,5.0,5.0,6.0,False,False,False
+tokyo_ma,Tokyo Metropolitan Area,26,Production Machinery & Robotics,0.8674971135514138,1.0115688220375811,0.8159143329611727,6.0,7.0,5.0,False,False,False
+tokyo_ma,Tokyo Metropolitan Area,28,Electronic Parts & Circuits,0.630942392981079,1.2557667274147357,0.4485491133733765,7.0,4.0,7.0,False,False,False

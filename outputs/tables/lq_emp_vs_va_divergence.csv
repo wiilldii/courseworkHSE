@@ -1,0 +1,75 @@
+﻿region,region_label,industry_code,lq_employment,lq_value_added,industry_label,level,lq_va_minus_lq_emp,holds_high_value_end,divergence_rank_in_region,is_top3_high_value_divergence
+osaka_kansai,Osaka/Kansai Metropolitan Area,27,1.0588297995650469,1.2010924015849314,Business Machinery & Medical Devices,2-digit,0.1422626020198845,True,1.0,True
+osaka_kansai,Osaka/Kansai Metropolitan Area,30,0.789381479831848,0.8978854037620866,ICT Equipment,2-digit,0.10850392393023855,True,2.0,True
+osaka_kansai,Osaka/Kansai Metropolitan Area,25,1.4586760801996193,1.5462886618739378,General-Purpose Machinery,2-digit,0.08761258167431851,True,3.0,True
+osaka_kansai,Osaka/Kansai Metropolitan Area,26,1.2077437073810908,1.2846116387163984,Production Machinery & Robotics,2-digit,0.07686793133530756,True,4.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,28,0.5086820925496677,0.445473463153572,Electronic Parts & Circuits,2-digit,-0.06320862939609567,False,5.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,29,1.187786348424425,0.9603391124062841,Electrical Machinery,2-digit,-0.22744723601814099,False,6.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,16,1.2596656109415556,0.9022134531867863,Chemicals & Adv. Materials,2-digit,-0.35745215775476935,False,7.0,False
+tokyo_ma,Tokyo Metropolitan Area,30,1.6966334270406496,2.1314846153804887,ICT Equipment,2-digit,0.43485118833983916,True,1.0,True
+tokyo_ma,Tokyo Metropolitan Area,27,1.359139967435012,1.6895115440461435,Business Machinery & Medical Devices,2-digit,0.3303715766111315,True,2.0,True
+tokyo_ma,Tokyo Metropolitan Area,26,0.8674971135514138,0.8159143329611727,Production Machinery & Robotics,2-digit,-0.05158278059024113,False,3.0,False
+tokyo_ma,Tokyo Metropolitan Area,16,1.3685524366539163,1.2662553491715993,Chemicals & Adv. Materials,2-digit,-0.10229708748231703,False,4.0,False
+tokyo_ma,Tokyo Metropolitan Area,25,0.9740300394939443,0.8445036660018425,General-Purpose Machinery,2-digit,-0.12952637349210183,False,5.0,False
+tokyo_ma,Tokyo Metropolitan Area,28,0.630942392981079,0.4485491133733765,Electronic Parts & Circuits,2-digit,-0.18239327960770252,False,6.0,False
+tokyo_ma,Tokyo Metropolitan Area,29,0.9323558331772807,0.7199438554403563,Electrical Machinery,2-digit,-0.21241197773692433,False,7.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,3023,2.52981888851471,3.5448123593339345,communication_computer_equipment,4-digit,1.0149934708192245,True,1.0,True
+osaka_kansai,Osaka/Kansai Metropolitan Area,2911,0.9885825931436665,1.7752388792831741,electrical_industrial_equipment,4-digit,0.7866562861395077,True,2.0,True
+osaka_kansai,Osaka/Kansai Metropolitan Area,2912,1.9770133984376586,2.7478241582310328,electrical_industrial_equipment,4-digit,0.7708107597933742,True,3.0,True
+osaka_kansai,Osaka/Kansai Metropolitan Area,2738,0.9630854440992114,1.2943936966273808,measurement_medical_precision,4-digit,0.3313082525281694,True,4.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2929,1.311552363564927,1.532682543380592,electrical_industrial_equipment,4-digit,0.22113017981566485,True,5.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2753,0.25159792495243916,0.460038053225685,measurement_medical_precision,4-digit,0.20844012827324582,True,6.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2741,0.3887617621689763,0.5314674864868552,measurement_medical_precision,4-digit,0.14270572431787887,True,7.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2739,1.3923786284829098,1.4803538358169317,measurement_medical_precision,4-digit,0.08797520733402187,True,8.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2973,0.7958187471595032,0.8084941433816056,electrical_industrial_equipment,4-digit,0.012675396222102453,True,9.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2842,0.6441704777732628,0.6396984542703729,electronic_components_semiconductors,4-digit,-0.004472023502889888,False,10.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2899,0.5103301677284369,0.4878355858611905,electronic_components_semiconductors,4-digit,-0.022494581867246344,False,11.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2811,0.029166123837775764,0.0,electronic_components_semiconductors,4-digit,-0.029166123837775764,False,12.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2969,0.8322787611494911,0.7997079221154304,electrical_industrial_equipment,4-digit,-0.03257083903406066,False,13.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,3031,0.08416977246437873,0.0,communication_computer_equipment,4-digit,-0.08416977246437873,False,14.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,3011,0.1033977083417189,0.0,communication_computer_equipment,4-digit,-0.1033977083417189,False,15.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2921,0.5735251238888821,0.4421633743057849,electrical_industrial_equipment,4-digit,-0.1313617495830972,False,16.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2671,0.4768220055481038,0.2939347058927127,semiconductor_equipment_robotics,4-digit,-0.18288729965539108,False,17.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,3013,0.9592576653353648,0.775230090226082,communication_computer_equipment,4-digit,-0.1840275751092828,False,18.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,1651,1.0249132486288786,0.8135651077881477,pharmaceuticals,4-digit,-0.21134814084073084,False,19.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2813,0.7499159524503165,0.5034796755818256,electronic_components_semiconductors,4-digit,-0.2464362768684909,False,20.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,3019,1.217844748771554,0.9611420742966861,communication_computer_equipment,4-digit,-0.25670267447486794,False,21.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2841,0.5908433335121935,0.2628187374654867,electronic_components_semiconductors,4-digit,-0.32802459604670686,False,22.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,1652,1.008856530315705,0.6713476369747475,pharmaceuticals,4-digit,-0.33750889334095757,False,23.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2694,1.075551308290189,0.7173785994038796,semiconductor_equipment_robotics,4-digit,-0.3581727088863095,False,24.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2999,1.216696645049148,0.8323291104056968,electrical_industrial_equipment,4-digit,-0.3843675346434513,False,25.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2743,1.3374286800875146,0.9434536673125467,measurement_medical_precision,4-digit,-0.39397501277496794,False,26.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2971,1.068215004533057,0.6158370318108115,electrical_industrial_equipment,4-digit,-0.45237797272224545,False,27.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2962,0.9295795359557402,0.0,electrical_industrial_equipment,4-digit,-0.9295795359557402,False,28.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,1655,1.475530874786058,0.0,pharmaceuticals,4-digit,-1.475530874786058,False,29.0,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,2831,0.0,,electronic_components_semiconductors,4-digit,,False,,False
+tokyo_ma,Tokyo Metropolitan Area,2962,3.237270115902494,5.838700506813787,electrical_industrial_equipment,4-digit,2.601430390911293,True,1.0,True
+tokyo_ma,Tokyo Metropolitan Area,3019,2.1347524426400373,3.8370770880765046,communication_computer_equipment,4-digit,1.7023246454364673,True,2.0,True
+tokyo_ma,Tokyo Metropolitan Area,2738,2.5227247709879315,3.900787535272104,measurement_medical_precision,4-digit,1.3780627642841727,True,3.0,True
+tokyo_ma,Tokyo Metropolitan Area,2741,0.9336339080764922,2.1366874156372377,measurement_medical_precision,4-digit,1.2030535075607456,True,4.0,False
+tokyo_ma,Tokyo Metropolitan Area,3011,2.140386713882546,3.057907631598517,communication_computer_equipment,4-digit,0.9175209177159713,True,5.0,False
+tokyo_ma,Tokyo Metropolitan Area,2921,1.6700898252039826,2.4401874559200483,electrical_industrial_equipment,4-digit,0.7700976307160656,True,6.0,False
+tokyo_ma,Tokyo Metropolitan Area,1651,0.5452006916912184,1.1765255097284881,pharmaceuticals,4-digit,0.6313248180372697,True,7.0,False
+tokyo_ma,Tokyo Metropolitan Area,2743,1.3629580377022874,1.8538554556359015,measurement_medical_precision,4-digit,0.4908974179336141,True,8.0,False
+tokyo_ma,Tokyo Metropolitan Area,2969,2.8957502455156714,3.236522745855244,electrical_industrial_equipment,4-digit,0.34077250033957274,True,9.0,False
+tokyo_ma,Tokyo Metropolitan Area,3013,2.6123224809072645,2.9166343811221362,communication_computer_equipment,4-digit,0.30431190021487176,True,10.0,False
+tokyo_ma,Tokyo Metropolitan Area,2842,0.856901691711393,1.0592819113268852,electronic_components_semiconductors,4-digit,0.20238021961549224,True,11.0,False
+tokyo_ma,Tokyo Metropolitan Area,2753,1.209843059912497,1.4043977227512157,measurement_medical_precision,4-digit,0.1945546628387187,True,12.0,False
+tokyo_ma,Tokyo Metropolitan Area,1652,0.8874695830416927,0.8089184576112683,pharmaceuticals,4-digit,-0.0785511254304243,False,13.0,False
+tokyo_ma,Tokyo Metropolitan Area,2911,0.5675117850041133,0.476681351572754,electrical_industrial_equipment,4-digit,-0.09083043343135927,False,14.0,False
+tokyo_ma,Tokyo Metropolitan Area,2694,0.30136101149457667,0.17400983013904994,semiconductor_equipment_robotics,4-digit,-0.12735118135552673,False,15.0,False
+tokyo_ma,Tokyo Metropolitan Area,2929,1.3506529497003799,1.220877219128452,electrical_industrial_equipment,4-digit,-0.12977573057192782,False,16.0,False
+tokyo_ma,Tokyo Metropolitan Area,2813,0.40869819069861124,0.26283472139393704,electronic_components_semiconductors,4-digit,-0.1458634693046742,False,17.0,False
+tokyo_ma,Tokyo Metropolitan Area,2999,0.7121239185290201,0.5561229111629818,electrical_industrial_equipment,4-digit,-0.15600100736603828,False,18.0,False
+tokyo_ma,Tokyo Metropolitan Area,3023,1.561900163575611,1.3829447844195968,communication_computer_equipment,4-digit,-0.17895537915601412,False,19.0,False
+tokyo_ma,Tokyo Metropolitan Area,2899,0.7401008718065596,0.5601864982024032,electronic_components_semiconductors,4-digit,-0.1799143736041564,False,20.0,False
+tokyo_ma,Tokyo Metropolitan Area,2841,0.6751940858398366,0.45988872953090887,electronic_components_semiconductors,4-digit,-0.21530535630892778,False,21.0,False
+tokyo_ma,Tokyo Metropolitan Area,2671,1.1117667350123184,0.8687328149851489,semiconductor_equipment_robotics,4-digit,-0.2430339200271695,False,22.0,False
+tokyo_ma,Tokyo Metropolitan Area,2973,0.7208741679705042,0.4508971850333631,electrical_industrial_equipment,4-digit,-0.26997698293714106,False,23.0,False
+tokyo_ma,Tokyo Metropolitan Area,2739,1.9310698169674072,1.5142082730617146,measurement_medical_precision,4-digit,-0.41686154390569263,False,24.0,False
+tokyo_ma,Tokyo Metropolitan Area,3031,0.8636078292941022,0.43214890470185674,communication_computer_equipment,4-digit,-0.43145892459224544,False,25.0,False
+tokyo_ma,Tokyo Metropolitan Area,2912,0.8480764552165604,0.3504602184681759,electrical_industrial_equipment,4-digit,-0.4976162367483845,False,26.0,False
+tokyo_ma,Tokyo Metropolitan Area,2971,2.4380484424832725,1.9065100247419857,electrical_industrial_equipment,4-digit,-0.5315384177412867,False,27.0,False
+tokyo_ma,Tokyo Metropolitan Area,1655,0.8246989999587718,0.0,pharmaceuticals,4-digit,-0.8246989999587718,False,28.0,False
+tokyo_ma,Tokyo Metropolitan Area,2811,2.4163716754023485,0.0,electronic_components_semiconductors,4-digit,-2.4163716754023485,False,29.0,False
+tokyo_ma,Tokyo Metropolitan Area,2831,0.10528286731367127,,electronic_components_semiconductors,4-digit,,False,,False

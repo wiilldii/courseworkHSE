@@ -1,0 +1,8 @@
+Krugman specialization (dissimilarity) index — provenance
+=========================================================
+s_i(region) = industry_i value / region manufacturing total (2-digit, METI).
+KSI = 0.5 * sum_i | s_i(Tokyo) - s_i(Osaka) |, computed separately on
+employment shares and value-added shares. KSI = 0 means identical industrial
+structure; KSI = 1 means completely different. The TOTAL_KSI row holds the
+index; other rows hold per-industry absolute share differences (the drivers of
+divergence). Monetary base: value_added in million yen.

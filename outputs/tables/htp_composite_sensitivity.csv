@@ -1,0 +1,4 @@
+﻿weight_scheme,description,tokyo_ma_composite,osaka_kansai_composite,tokyo_over_osaka_ratio,higher_region,ranking_stable_across_schemes
+equal,equal weight on every normalized component,1.3280925617850439,1.054303154332036,1.2596875541233392,tokyo_ma,True
+hq_weighted,HQ/corporate-innovation construct weighted 2x,1.4102812618393252,1.0539966028144068,1.3380320753155739,tokyo_ma,True
+production_weighted,industrial-production construct weighted 2x,1.2341626188658654,1.0546534989236123,1.1702067267832152,tokyo_ma,True

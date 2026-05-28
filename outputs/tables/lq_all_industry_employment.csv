@@ -1,0 +1,69 @@
+﻿region,region_label,div_code,employment,employment_japan,lq,industry_label
+tokyo_ma,Tokyo Metropolitan Area,A,61466.0,824781.0,0.2416548081329937,A
+tokyo_ma,Tokyo Metropolitan Area,AB,32481.0,453703.0,0.2321436867465033,AB
+tokyo_ma,Tokyo Metropolitan Area,B,3150.0,82025.0,0.12452697876285976,B
+tokyo_ma,Tokyo Metropolitan Area,C,6468.0,39394.0,0.5324012511839806,C
+tokyo_ma,Tokyo Metropolitan Area,CR,17838717.0,57496212.0,1.0060591593910926,CR
+tokyo_ma,Tokyo Metropolitan Area,D,2013577.0,7474639.0,0.8735286551175441,Construction
+tokyo_ma,Tokyo Metropolitan Area,E,3381250.0,17606139.0,0.6227479304535359,Manufacturing
+tokyo_ma,Tokyo Metropolitan Area,F,98186.0,404222.0,0.7876418034368294,Utilities
+tokyo_ma,Tokyo Metropolitan Area,G,1267182.0,1986839.0,2.0681186725228984,Information & Communications
+tokyo_ma,Tokyo Metropolitan Area,G1,511187.0,928960.0,1.7843577166789082,ICT (Communications & Broadcasting)
+tokyo_ma,Tokyo Metropolitan Area,G2,2022890.0,3044380.0,2.154629214279411,ICT (Software & Internet)
+tokyo_ma,Tokyo Metropolitan Area,H,2133905.0,6529249.0,1.0597684510752547,Transport & Postal
+tokyo_ma,Tokyo Metropolitan Area,I,3620185.0,11611924.0,1.0109407820310041,Wholesale & Retail
+tokyo_ma,Tokyo Metropolitan Area,I1,2912130.0,7797467.0,1.2110340375785542,I1
+tokyo_ma,Tokyo Metropolitan Area,I2,4325091.0,15420145.0,0.9095067544568228,I2
+tokyo_ma,Tokyo Metropolitan Area,J,1191063.0,2988857.0,1.2921970148086557,Finance & Insurance
+tokyo_ma,Tokyo Metropolitan Area,K,649780.0,1618138.0,1.3021167323418108,Real Estate & Leasing
+tokyo_ma,Tokyo Metropolitan Area,K1,1110440.0,2673539.0,1.3468142738652622,K1
+tokyo_ma,Tokyo Metropolitan Area,K2,188818.0,561842.0,1.0897536406256476,K2
+tokyo_ma,Tokyo Metropolitan Area,L,1848437.0,4237409.0,1.414501476970748,Scientific Research & Technical Services
+tokyo_ma,Tokyo Metropolitan Area,M,1443906.0,4678739.0,1.0007123021344633,Accommodations & Food Services
+tokyo_ma,Tokyo Metropolitan Area,M1,273156.0,1251824.0,0.707565432389752,M1
+tokyo_ma,Tokyo Metropolitan Area,M2,2614508.0,8105047.0,1.0460045513065528,M2
+tokyo_ma,Tokyo Metropolitan Area,N,1350202.0,4351947.0,1.006037770361013,N
+tokyo_ma,Tokyo Metropolitan Area,O,671081.0,1950734.0,1.1155165714373743,Education
+tokyo_ma,Tokyo Metropolitan Area,O1,709584.0,2237918.0,1.0281554492558749,O1
+tokyo_ma,Tokyo Metropolitan Area,O2,632578.0,1663550.0,1.2330405579903343,O2
+tokyo_ma,Tokyo Metropolitan Area,P,4411329.0,16324555.0,0.8762483926068942,Healthcare & Welfare
+tokyo_ma,Tokyo Metropolitan Area,Q,82458.0,435970.0,0.6133033374993822,Q
+tokyo_ma,Tokyo Metropolitan Area,Q1,126682.0,570168.0,0.7204622143706195,Q1
+tokyo_ma,Tokyo Metropolitan Area,Q2,38234.0,301772.0,0.41083736150452627,Q2
+tokyo_ma,Tokyo Metropolitan Area,R,1886317.0,5234337.0,1.168563011068067,R
+tokyo_ma,Tokyo Metropolitan Area,R1,294883.0,1101378.0,0.8681853951865524,R1
+tokyo_ma,Tokyo Metropolitan Area,R2,3476087.0,9364658.0,1.2036434388962391,R2
+osaka_kansai,Osaka/Kansai Metropolitan Area,A,42355.0,824781.0,0.3566705833042235,A
+osaka_kansai,Osaka/Kansai Metropolitan Area,AB,22460.0,453703.0,0.3438265066387279,AB
+osaka_kansai,Osaka/Kansai Metropolitan Area,B,2533.0,82025.0,0.2144816808574839,B
+osaka_kansai,Osaka/Kansai Metropolitan Area,C,1448.0,39394.0,0.25529348684225356,C
+osaka_kansai,Osaka/Kansai Metropolitan Area,CR,8321103.0,57496212.0,1.00517786949962,CR
+osaka_kansai,Osaka/Kansai Metropolitan Area,D,852455.0,7474639.0,0.7921045238646739,Construction
+osaka_kansai,Osaka/Kansai Metropolitan Area,E,2491751.0,17606139.0,0.9829734068871603,Manufacturing
+osaka_kansai,Osaka/Kansai Metropolitan Area,F,48760.0,404222.0,0.8378089667966969,Utilities
+osaka_kansai,Osaka/Kansai Metropolitan Area,G,230936.0,1986839.0,0.8072911968304114,Information & Communications
+osaka_kansai,Osaka/Kansai Metropolitan Area,G1,133068.0,928960.0,0.9948964222945585,ICT (Communications & Broadcasting)
+osaka_kansai,Osaka/Kansai Metropolitan Area,G2,328791.0,3044380.0,0.7501054391876766,ICT (Software & Internet)
+osaka_kansai,Osaka/Kansai Metropolitan Area,H,958124.0,6529249.0,1.0192007661570037,Transport & Postal
+osaka_kansai,Osaka/Kansai Metropolitan Area,I,1739178.0,11611924.0,1.0402580904520717,Wholesale & Retail
+osaka_kansai,Osaka/Kansai Metropolitan Area,I1,1287608.0,7797467.0,1.1469153747769298,I1
+osaka_kansai,Osaka/Kansai Metropolitan Area,I2,2190140.0,15420145.0,0.9864717967831664,I2
+osaka_kansai,Osaka/Kansai Metropolitan Area,J,394258.0,2988857.0,0.9161711909531837,Finance & Insurance
+osaka_kansai,Osaka/Kansai Metropolitan Area,K,272316.0,1618138.0,1.16885020150124,Real Estate & Leasing
+osaka_kansai,Osaka/Kansai Metropolitan Area,K1,465708.0,2673539.0,1.2098413629563072,K1
+osaka_kansai,Osaka/Kansai Metropolitan Area,K2,78794.0,561842.0,0.9740476446035536,K2
+osaka_kansai,Osaka/Kansai Metropolitan Area,L,576396.0,4237409.0,0.9447607176215934,Scientific Research & Technical Services
+osaka_kansai,Osaka/Kansai Metropolitan Area,M,711325.0,4678739.0,1.0559430770410423,Accommodations & Food Services
+osaka_kansai,Osaka/Kansai Metropolitan Area,M1,148544.0,1251824.0,0.824162964308489,M1
+osaka_kansai,Osaka/Kansai Metropolitan Area,M2,1273849.0,8105047.0,1.0916003509699521,M2
+osaka_kansai,Osaka/Kansai Metropolitan Area,N,600021.0,4351947.0,0.9575999318455612,N
+osaka_kansai,Osaka/Kansai Metropolitan Area,O,340126.0,1950734.0,1.2109969013851754,Education
+osaka_kansai,Osaka/Kansai Metropolitan Area,O1,409768.0,2237918.0,1.271730609086935,O1
+osaka_kansai,Osaka/Kansai Metropolitan Area,O2,270484.0,1663550.0,1.1292938821356755,O2
+osaka_kansai,Osaka/Kansai Metropolitan Area,P,2533908.0,16324555.0,1.0780793934958417,Healthcare & Welfare
+osaka_kansai,Osaka/Kansai Metropolitan Area,Q,48251.0,435970.0,0.7686895315935591,Q
+osaka_kansai,Osaka/Kansai Metropolitan Area,Q1,72946.0,570168.0,0.8885868801518414,Q1
+osaka_kansai,Osaka/Kansai Metropolitan Area,Q2,23556.0,301772.0,0.5421554879023661,Q2
+osaka_kansai,Osaka/Kansai Metropolitan Area,R,750210.0,5234337.0,0.995456810905082,R
+osaka_kansai,Osaka/Kansai Metropolitan Area,R1,164786.0,1101378.0,1.0391665732394406,R1
+osaka_kansai,Osaka/Kansai Metropolitan Area,R2,1335451.0,9364658.0,0.9904607955211395,R2

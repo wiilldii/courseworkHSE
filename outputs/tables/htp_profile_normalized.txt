@@ -1,0 +1,34 @@
+HTP normalized profile — provenance
+===================================
+Formula (per component k, region r):
+    intensity_region = X[k,r] / B[k,r]
+    intensity_japan  = X[k,Japan] / B[k,Japan]
+    normalized_value = intensity_region / intensity_japan
+A value of 1.0 means the region is exactly at the national average on that
+dimension (this is location-quotient logic). This deliberately replaces the old
+"share of national total", which measured size rather than specialization.
+
+Components, numerator (X) and base (B):
+  hightech_employment      X = Economic Census parent service employment (G,L,
+                               hierarchy 2) + METI 2-digit high-tech mfg
+                               employment;  B = total employment (all industries)
+  hightech_establishments  X = same service+mfg high-tech establishments;
+                               B = total establishments (all industries)
+  hightech_mfg_value_added X = METI 2-digit high-tech mfg value added (mn yen);
+                               B = total manufacturing value added (mn yen)
+  hightech_mfg_shipments   X = METI 2-digit high-tech mfg shipments (mn yen);
+                               B = total manufacturing shipments (mn yen)
+  patent_applications      X = JPO patent applications (latest year, first-
+                               applicant address);  B = total employment
+
+Construct labels (to control conceptual double counting):
+  hq_corporate_innovation = {employment, establishments, patents}
+       (all three proxy where corporate HQs sit)
+  industrial_production    = {mfg value added, mfg shipments}
+
+row_type: "component" rows give per-component values; "construct_mean" rows give
+the mean normalized value within each construct.
+
+Caveats: employment/establishments numerators mix Economic Census (all
+establishments) with METI manufacturing (4+ employees); see README. The
+"note" column flags where a metro value relies >=90% on a single prefecture.

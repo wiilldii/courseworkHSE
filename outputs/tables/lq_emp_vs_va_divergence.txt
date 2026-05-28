@@ -1,0 +1,8 @@
+LQ employment vs value-added divergence — provenance
+====================================================
+lq_va_minus_lq_emp = LQ(value added) - LQ(employment) for each high-tech
+industry/region. Where this is positive (holds_high_value_end = True), the
+region is more specialized in that industry's VALUE than in its headcount, i.e.
+it holds the high-value end. is_top3_high_value_divergence flags the three
+largest positive divergences per region and level. LQ uses the standard
+location-quotient formula (unchanged).

@@ -1,0 +1,77 @@
+﻿component,industry_code,industry_name,included,reason
+hightech_employment_share,E,E_Manufacturing,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,09,09_Manufacture of food,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,10,"10_Manufacture of beverages, tobacco and feed",False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,11,11_Manufacture of textile mill products,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,12,"12_Manufacture of lumber and wood products, except furniture",False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,13,13_Manufacture of furniture and fixtures,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,14,"14_Manufacture of pulp, paper and paper products",False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,15,15_Printing and allied industries,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,16,16_Manufacture of chemical and allied products,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,17,17_Manufacture of petroleum and coal products,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,18,"18_Manufacture of plastic products, except otherwise classified",False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,19,19_Manufacture of rubber products,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,20,"20_Manufacture of leather tanning, leather products and fur skins",False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,21,"21_Manufacture of ceramic, stone and clay products",False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,22,22_Manufacture of iron and steel,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,23,23_Manufacture of non-ferrous metals and products,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,24,24_Manufacture of fabricated metal products,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,25,25_Manufacture of general-purpose machinery,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,26,26_Manufacture of production machinery,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,27,27_Manufacture of business oriented machinery,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,28,"28_Electronic parts, devices and electronic circuits",False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,29,"29_Manufacture of electrical machinery, equipment and supplies",False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,30,30_Manufacture of information and communication electronics equipment,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,31,31_Manufacture of transportation equipment,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,32,32_Miscellaneous manufacturing industries,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_employment_share,G,G_Information and Communications,True,included parent service category
+hightech_employment_share,G1,"G1_Information and communications (Communications, broadcasting and video picture, sound information, character information production and distribution)",False,excluded; parent ICT category G is used to avoid double counting
+hightech_employment_share,37,37_Communications,False,excluded; parent ICT category G is used to avoid double counting
+hightech_employment_share,38,38_Broadcasting,False,excluded; parent ICT category G is used to avoid double counting
+hightech_employment_share,41,"41_Video picture information, sound information, character information production and distribution",False,excluded; parent ICT category G is used to avoid double counting
+hightech_employment_share,G2,G2_Information and communications (Information services and internet based services),False,excluded; parent ICT category G is used to avoid double counting
+hightech_employment_share,39,39_Information services,False,excluded; parent ICT category G is used to avoid double counting
+hightech_employment_share,40,40_Internet based services,False,excluded; parent ICT category G is used to avoid double counting
+hightech_employment_share,L,"L_Scientific Research, Professional and Technical Services",True,included parent service category
+hightech_employment_share,71,71_Scientific and development research institutes,False,excluded; parent scientific/professional category L is used to avoid double counting
+hightech_employment_share,72,"72_Professional services, n.e.c.",False,excluded; parent scientific/professional category L is used to avoid double counting
+hightech_employment_share,73,73_Advertising,False,excluded; parent scientific/professional category L is used to avoid double counting
+hightech_employment_share,74,"74_Technical services, n.e.c.",False,excluded; parent scientific/professional category L is used to avoid double counting
+hightech_establishments_share,E,E_Manufacturing,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,09,09_Manufacture of food,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,10,"10_Manufacture of beverages, tobacco and feed",False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,11,11_Manufacture of textile mill products,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,12,"12_Manufacture of lumber and wood products, except furniture",False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,13,13_Manufacture of furniture and fixtures,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,14,"14_Manufacture of pulp, paper and paper products",False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,15,15_Printing and allied industries,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,16,16_Manufacture of chemical and allied products,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,17,17_Manufacture of petroleum and coal products,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,18,"18_Manufacture of plastic products, except otherwise classified",False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,19,19_Manufacture of rubber products,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,20,"20_Manufacture of leather tanning, leather products and fur skins",False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,21,"21_Manufacture of ceramic, stone and clay products",False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,22,22_Manufacture of iron and steel,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,23,23_Manufacture of non-ferrous metals and products,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,24,24_Manufacture of fabricated metal products,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,25,25_Manufacture of general-purpose machinery,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,26,26_Manufacture of production machinery,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,27,27_Manufacture of business oriented machinery,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,28,"28_Electronic parts, devices and electronic circuits",False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,29,"29_Manufacture of electrical machinery, equipment and supplies",False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,30,30_Manufacture of information and communication electronics equipment,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,31,31_Manufacture of transportation equipment,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,32,32_Miscellaneous manufacturing industries,False,excluded; selected high-tech manufacturing is sourced from METI 2-digit industries
+hightech_establishments_share,G,G_Information and Communications,True,included parent service category
+hightech_establishments_share,G1,"G1_Information and communications (Communications, broadcasting and video picture, sound information, character information production and distribution)",False,excluded; parent ICT category G is used to avoid double counting
+hightech_establishments_share,37,37_Communications,False,excluded; parent ICT category G is used to avoid double counting
+hightech_establishments_share,38,38_Broadcasting,False,excluded; parent ICT category G is used to avoid double counting
+hightech_establishments_share,41,"41_Video picture information, sound information, character information production and distribution",False,excluded; parent ICT category G is used to avoid double counting
+hightech_establishments_share,G2,G2_Information and communications (Information services and internet based services),False,excluded; parent ICT category G is used to avoid double counting
+hightech_establishments_share,39,39_Information services,False,excluded; parent ICT category G is used to avoid double counting
+hightech_establishments_share,40,40_Internet based services,False,excluded; parent ICT category G is used to avoid double counting
+hightech_establishments_share,L,"L_Scientific Research, Professional and Technical Services",True,included parent service category
+hightech_establishments_share,71,71_Scientific and development research institutes,False,excluded; parent scientific/professional category L is used to avoid double counting
+hightech_establishments_share,72,"72_Professional services, n.e.c.",False,excluded; parent scientific/professional category L is used to avoid double counting
+hightech_establishments_share,73,73_Advertising,False,excluded; parent scientific/professional category L is used to avoid double counting
+hightech_establishments_share,74,"74_Technical services, n.e.c.",False,excluded; parent scientific/professional category L is used to avoid double counting

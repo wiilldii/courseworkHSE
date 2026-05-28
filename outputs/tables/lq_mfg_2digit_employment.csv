@@ -1,0 +1,49 @@
+﻿region,region_label,industry_code_2d,employment,employment_japan,lq,industry_en,is_hightech
+tokyo_ma,Tokyo Metropolitan Area,09,206205.0,1094454.0,1.199509180819532,,False
+tokyo_ma,Tokyo Metropolitan Area,10,11595.0,102880.0,0.7175326949753426,,False
+tokyo_ma,Tokyo Metropolitan Area,11,12851.0,219843.0,0.37215698888531235,,False
+tokyo_ma,Tokyo Metropolitan Area,12,5747.0,86067.0,0.4251150002346431,,False
+tokyo_ma,Tokyo Metropolitan Area,13,13826.0,86078.0,1.022601162923522,,False
+tokyo_ma,Tokyo Metropolitan Area,14,29420.0,179189.0,1.0452813940280994,,False
+tokyo_ma,Tokyo Metropolitan Area,15,83834.0,235105.0,2.2701796187507703,,False
+tokyo_ma,Tokyo Metropolitan Area,16,81249.0,377971.0,1.3685524366539163,Chemicals & Adv. Materials,True
+tokyo_ma,Tokyo Metropolitan Area,17,8264.0,28027.0,1.8772218149171795,,False
+tokyo_ma,Tokyo Metropolitan Area,18,56085.0,440660.0,0.8102984190104278,,False
+tokyo_ma,Tokyo Metropolitan Area,19,15214.0,111724.0,0.8669595465942754,,False
+tokyo_ma,Tokyo Metropolitan Area,20,4397.0,16903.0,1.656130561823006,,False
+tokyo_ma,Tokyo Metropolitan Area,21,27123.0,232706.0,0.7420480707625704,,False
+tokyo_ma,Tokyo Metropolitan Area,22,32067.0,218553.0,0.9341216912843665,,False
+tokyo_ma,Tokyo Metropolitan Area,23,23034.0,141077.0,1.0394773824151895,,False
+tokyo_ma,Tokyo Metropolitan Area,24,90623.0,582642.0,0.9902356208781523,,False
+tokyo_ma,Tokyo Metropolitan Area,25,48713.0,318401.0,0.9740300394939443,General-Purpose Machinery,True
+tokyo_ma,Tokyo Metropolitan Area,26,82688.0,606843.0,0.8674971135514138,Production Machinery & Robotics,True
+tokyo_ma,Tokyo Metropolitan Area,27,44766.0,209694.0,1.359139967435012,Business Machinery & Medical Devices,True
+tokyo_ma,Tokyo Metropolitan Area,28,40845.0,412146.0,0.630942392981079,Electronic Parts & Circuits,True
+tokyo_ma,Tokyo Metropolitan Area,29,70416.0,480830.0,0.9323558331772807,Electrical Machinery,True
+tokyo_ma,Tokyo Metropolitan Area,30,30110.0,112986.0,1.6966334270406496,ICT Equipment,True
+tokyo_ma,Tokyo Metropolitan Area,31,120039.0,1017610.0,0.7510051240323103,,False
+tokyo_ma,Tokyo Metropolitan Area,32,33517.0,153167.0,1.393162675548444,,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,09,130117.0,1094454.0,0.922121231086312,,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,10,11150.0,102880.0,0.8406116498678694,,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,11,30189.0,219843.0,1.0650931173357125,,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,12,7876.0,86067.0,0.7097747329254946,,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,13,11137.0,86078.0,1.0035234944989742,,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,14,24789.0,179189.0,1.0729985976730465,,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,15,39043.0,235105.0,1.2880502553582824,,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,16,61385.0,377971.0,1.2596656109415556,Chemicals & Adv. Materials,True
+osaka_kansai,Osaka/Kansai Metropolitan Area,17,3121.0,28027.0,0.863711392094095,,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,18,57263.0,440660.0,1.00791047671639,,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,19,14074.0,111724.0,0.9770629905097102,,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,20,4774.0,16903.0,2.1906354729099333,,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,21,19469.0,232706.0,0.6489146167483582,,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,22,40240.0,218553.0,1.4280805113245862,,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,23,18717.0,141077.0,1.0290382480243685,,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,24,99448.0,582642.0,1.323871273058343,,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,25,59880.0,318401.0,1.4586760801996193,General-Purpose Machinery,True
+osaka_kansai,Osaka/Kansai Metropolitan Area,26,94493.0,606843.0,1.2077437073810908,Production Machinery & Robotics,True
+osaka_kansai,Osaka/Kansai Metropolitan Area,27,28626.0,209694.0,1.0588297995650469,Business Machinery & Medical Devices,True
+osaka_kansai,Osaka/Kansai Metropolitan Area,28,27030.0,412146.0,0.5086820925496677,Electronic Parts & Circuits,True
+osaka_kansai,Osaka/Kansai Metropolitan Area,29,73634.0,480830.0,1.187786348424425,Electrical Machinery,True
+osaka_kansai,Osaka/Kansai Metropolitan Area,30,11499.0,112986.0,0.789381479831848,ICT Equipment,True
+osaka_kansai,Osaka/Kansai Metropolitan Area,31,72579.0,1017610.0,0.5531986438134759,,False
+osaka_kansai,Osaka/Kansai Metropolitan Area,32,21989.0,153167.0,1.11350395990766,,False

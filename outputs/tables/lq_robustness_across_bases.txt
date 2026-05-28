@@ -1,0 +1,7 @@
+LQ robustness across bases — provenance
+=======================================
+For 2-digit high-tech industries, LQ is computed on three bases: employment,
+establishments and value added. rank_* gives each industry's LQ rank within the
+region under each base (1 = highest). classification_stable = True when all three
+bases agree on the LQ>1 (specialized) vs LQ<1 (under-represented) classification,
+i.e. the specialization signal is robust to the choice of base.

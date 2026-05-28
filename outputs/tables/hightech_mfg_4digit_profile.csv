@@ -1,0 +1,90 @@
+﻿industry_code_4d,industry_name_jp,establishments,employment,shipments_mn_yen,value_added_mn_yen,region,pref_code,pref_name
+1651,医薬品原薬製造業,112.0,10171.0,309963.79,135929.18,japan,00,Japan
+1652,医薬品製剤製造業,517.0,78596.0,7745883.09,4001977.51,japan,00,Japan
+1655,動物用医薬品製造業,17.0,1598.0,3020.61,859.56,japan,00,Japan
+2671,半導体製造装置製造業,1417.0,77445.0,3209895.4,1163648.91,japan,00,Japan
+2694,ロボット製造業,398.0,20978.0,947434.31,420032.68,japan,00,Japan
+2738,理化学機械器具製造業,144.0,4212.0,61750.119999999995,28223.59,japan,00,Japan
+2739,その他の計量器・測定器・分析機器・試験機・測量機械器具・理化学機械器具製造業,438.0,18845.0,545590.04,230812.04,japan,00,Japan
+2741,医療用機械器具製造業,579.0,42476.0,1042856.48,426529.82,japan,00,Japan
+2743,医療用品製造業（動物用医療機械器具を含む）,305.0,7371.0,114158.65000000001,68806.84,japan,00,Japan
+2753,光学機械用レンズ・プリズム製造業,208.0,15229.0,299116.31,114469.38,japan,00,Japan
+2811,電子管製造業,15.0,3989.0,42854.6,27842.5,japan,00,Japan
+2813,半導体素子製造業（光電変換素子を除く）,90.0,22899.0,759071.48,221417.7,japan,00,Japan
+2831,半導体メモリメディア製造業,9.0,1028.0,0.0,0.0,japan,00,Japan
+2841,電子回路基板製造業,408.0,40800.0,1138085.62,464505.11,japan,00,Japan
+2842,電子回路実装基板製造業,701.0,38783.0,894667.14,235373.35,japan,00,Japan
+2899,その他の電子部品・デバイス・電子回路製造業,1330.0,104216.0,2948107.68,1181420.12,japan,00,Japan
+2911,発電機・電動機・その他の回転電気機械製造業,514.0,36538.0,1264340.28,445277.95,japan,00,Japan
+2912,変圧器類製造業（電子機器用を除く),251.0,15532.0,494025.95,150219.37,japan,00,Japan
+2921,電気溶接機製造業,90.0,2840.0,69518.16,27832.96,japan,00,Japan
+2929,その他の産業用電気機械器具製造業（車両用、船舶用を含む）,613.0,27919.0,717922.06,230476.98,japan,00,Japan
+2962,医療用電子応用装置製造業,65.0,3713.0,159219.06,101213.84,japan,00,Japan
+2969,その他の電子応用装置製造業,347.0,17250.0,472769.97,167933.97,japan,00,Japan
+2971,電気計測器製造業（別掲を除く）,396.0,22567.0,681921.6000000001,320911.82,japan,00,Japan
+2973,医療用計測器製造業,121.0,12329.0,406947.47000000003,166905.36,japan,00,Japan
+2999,その他の電気機械器具製造業,315.0,14796.0,389552.41,158840.79,japan,00,Japan
+3011,有線通信機械器具製造業,75.0,10952.0,540332.74,161877.16999999998,japan,00,Japan
+3013,無線通信機械器具製造業,169.0,28502.0,1480170.78,454285.5,japan,00,Japan
+3019,その他の通信機械器具・同関連機械器具製造業,93.0,6579.0,169091.32,85566.95,japan,00,Japan
+3023,電気音響機械器具製造業,134.0,6371.0,122281.54999999999,43053.25,japan,00,Japan
+3031,電子計算機製造業（パーソナルコンピュータを除く）,40.0,3686.0,182102.6,43106.24,japan,00,Japan
+1651,医薬品原薬製造業,14.0,871.0,45049.3,26092.230000000003,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+1652,医薬品製剤製造業,92.0,10956.0,1070276.14,528173.4199999999,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+1655,動物用医薬品製造業,4.0,207.0,0.0,0.0,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2671,半導体製造装置製造業,360.0,13524.0,460737.67,164932.16,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2694,ロボット製造業,52.0,993.0,25400.75,11924.88,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2738,理化学機械器具製造業,67.0,1669.0,33480.17,17962.29,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2739,その他の計量器・測定器・分析機器・試験機・測量機械器具・理化学機械器具製造業,195.0,5716.0,135293.58000000002,57021.84,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2741,医療用機械器具製造業,191.0,6229.0,275165.34,148691.97999999998,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2743,医療用品製造業（動物用医療機械器具を含む）,75.0,1578.0,35923.65,20811.56,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2753,光学機械用レンズ・プリズム製造業,59.0,2894.0,74881.51,26228.690000000002,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2811,電子管製造業,5.0,1514.0,0.0,0.0,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2813,半導体素子製造業（光電変換素子を除く）,8.0,1470.0,47507.42,9494.94,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2831,半導体メモリメディア製造業,2.0,17.0,0.0,0.0,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2841,電子回路基板製造業,106.0,4327.0,75556.25,34853.02,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2842,電子回路実装基板製造業,151.0,5220.0,111202.37,40678.600000000006,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2899,その他の電子部品・デバイス・電子回路製造業,338.0,12115.0,255919.75,107977.72,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2911,発電機・電動機・その他の回転電気機械製造業,85.0,3257.0,107372.58,34630.32,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2912,変圧器類製造業（電子機器用を除く),65.0,2069.0,38981.15,8589.380000000001,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2921,電気溶接機製造業,22.0,745.0,21010.13,11081.02,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2929,その他の産業用電気機械器具製造業（車両用、船舶用を含む）,163.0,5923.0,137245.12,45908.880000000005,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2962,医療用電子応用装置製造業,26.0,1888.0,147613.6,96416.92,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2969,その他の電子応用装置製造業,126.0,7846.0,211317.62,88677.69,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2971,電気計測器製造業（別掲を除く）,176.0,8642.0,239465.23,99821.01,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2973,医療用計測器製造業,30.0,1396.0,49813.54,12278.49,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+2999,その他の電気機械器具製造業,74.0,1655.0,46131.24,14412.19,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+3011,有線通信機械器具製造業,26.0,3682.0,245501.64,80762.01,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+3013,無線通信機械器具製造業,63.0,11695.0,722334.32,216176.27,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+3019,その他の通信機械器具・同関連機械器具製造業,34.0,2206.0,91415.86,53567.79,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+3023,電気音響機械器具製造業,49.0,1563.0,22786.309999999998,9714.22,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+3031,電子計算機製造業（パーソナルコンピュータを除く）,11.0,500.0,6310.7,3039.2799999999997,tokyo_ma,tokyo_ma,Tokyo Metropolitan Area
+1651,医薬品原薬製造業,27.0,1344.0,37670.619999999995,15528.04,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+1652,医薬品製剤製造業,104.0,10223.0,1015081.54,377253.9,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+1655,動物用医薬品製造業,3.0,304.0,0.0,0.0,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2671,半導体製造装置製造業,157.0,4761.0,130080.04000000001,48026.89,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2694,ロボット製造業,58.0,2909.0,88579.15,42310.01,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2738,理化学機械器具製造業,27.0,523.0,12998.83,5129.679999999999,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2739,その他の計量器・測定器・分析機器・試験機・測量機械器具・理化学機械器具製造業,78.0,3383.0,90294.59,47977.28,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2741,医療用機械器具製造業,60.0,2129.0,77648.8,31830.079999999998,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2743,医療用品製造業（動物用医療機械器具を含む）,45.0,1271.0,15053.26,9115.15,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2753,光学機械用レンズ・プリズム製造業,10.0,494.0,10887.37,7394.26,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2811,電子管製造業,1.0,15.0,0.0,0.0,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2813,半導体素子製造業（光電変換素子を除く）,11.0,2214.0,144534.57,15653.3,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2841,電子回路基板製造業,46.0,3108.0,54257.729999999996,17141.88,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2842,電子回路実装基板製造業,81.0,3221.0,61960.600000000006,21141.91,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2899,その他の電子部品・デバイス・電子回路製造業,145.0,6857.0,145301.85,80926.26000000001,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2911,発電機・電動機・その他の回転電気機械製造業,63.0,4657.0,217063.56,110994.03,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2912,変圧器類製造業（電子機器用を除く),58.0,3959.0,175936.08000000002,57959.75,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2921,電気溶接機製造業,13.0,210.0,4715.95,1728.04,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2929,その他の産業用電気機械器具製造業（車両用、船舶用を含む）,123.0,4721.0,131568.07,49601.11,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2962,医療用電子応用装置製造業,5.0,445.0,0.0,0.0,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2969,その他の電子応用装置製造業,62.0,1851.0,39733.45,18857.39,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2971,電気計測器製造業（別掲を除く）,51.0,3108.0,52760.39,27750.010000000002,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2973,医療用計測器製造業,16.0,1265.0,56169.03,18947.8,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+2999,その他の電気機械器具製造業,49.0,2321.0,56938.69,18563.88,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+3011,有線通信機械器具製造業,3.0,146.0,0.0,0.0,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+3013,無線通信機械器具製造業,13.0,3525.0,157128.09,49450.549999999996,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+3019,その他の通信機械器具・同関連機械器具製造業,11.0,1033.0,26606.59,11547.96,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+3023,電気音響機械器具製造業,18.0,2078.0,59320.20999999999,21429.440000000002,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area
+3031,電子計算機製造業（パーソナルコンピュータを除く）,2.0,40.0,0.0,0.0,osaka_kansai,osaka_kansai,Osaka/Kansai Metropolitan Area

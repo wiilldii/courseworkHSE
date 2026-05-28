@@ -1,0 +1,12 @@
+﻿industry_jp,industry_en,hierarchy,tech_export_receipts_mn_yen,tech_import_payments_mn_yen,tech_balance_mn_yen,export_import_ratio,interpretation_group
+情報通信機械器具製造業,Information and communication equipment,3,60486.0,30185.0,30301.0,2.003842968361769,electronics_components
+電子部品・デバイス・電子回路製造業,"Electronic parts, devices and circuits",3,44813.0,11675.0,33138.0,3.838372591006424,electronics_components
+電気機械器具製造業,Electrical machinery,3,116586.0,19206.0,97380.0,6.07029053420806,electronics_components
+情報サービス業,Information services,3,35441.0,169352.0,-133911.0,0.20927417450044877,ict_services
+はん用機械器具製造業,General-purpose machinery,3,112368.0,10197.0,102171.0,11.019711679905855,machinery_automation
+業務用機械器具製造業,Business-oriented machinery / medical devices,3,17478.0,11456.0,6022.0,1.525663407821229,machinery_automation
+生産用機械器具製造業,Production machinery,3,67519.0,10364.0,57155.0,6.514762639907372,machinery_automation
+化学工業,Chemicals,3,119926.0,18152.0,101774.0,6.606765094755398,pharma_life_sciences
+医薬品製造業,Pharmaceuticals,3,979744.0,253013.0,726731.0,3.8723069565595445,pharma_life_sciences
+学術・開発研究機関,Scientific research and development institutes,3,30682.0,1307.0,29375.0,23.47513389441469,rd_technical_services
+技術サービス業(他に分類されないもの),"Technical services, n.e.c.",3,40131.0,3291.0,36840.0,12.194165907019142,rd_technical_services
